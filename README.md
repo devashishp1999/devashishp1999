@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Devashish Pujari a Computer Science Engineering graduate.
-- 👀 I’m interested in Front-End WEB DEVELOPMENT.
+- 👀 Interested in Front-End DEVELOPMENT.
 - 👀 Skilled in JavaScript, HTML & CSS.
-- 🌱 I’m currently learning High-level JavaScript concepts and React.JS
-- 💞️ You can contact me to create your own website!
+- 🌱 Currently learning High-level JavaScript concepts, React & React Native
+- 💞️ You can contact me to create your own website or Apps!
 - 📫 How to reach me : mail - devashishp1999@gmail.com
 - LinkedIn : https://www.linkedin.com/in/devashish-pujari-404844114/
 - ig : @pujaridevashish
