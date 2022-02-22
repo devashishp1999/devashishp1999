@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/devashishp1999](https://www.github.com/devashishp1999)
 
-- 📝 I co-founded a full service digital studio [https://www.algrowdigital.com/](www.algrowdigital.com)
+- 📝 I co-founded a full service digital studio [www.algrowdigital.com](https://www.algrowdigital.com)
 
 - 💬 Ask me about **Javascript, ReactJS, React Native, Styling**
 
