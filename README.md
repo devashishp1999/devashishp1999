@@ -8,10 +8,8 @@
 - 👯 I’m looking to collaborate on **Webapps that require smooth and beautiful frontends, Frontend for Decentralized Application, React-Native Apps**
 
 - 👨‍💻 All of my projects are available at [github.com/devashishp1999](https://www.github.com/devashishp1999)
-<--
-- 📝 I co-founded a full service digital studio : [Algrow Digital](https://www.algrowdigital.com)-->
 
-- 💬 Ask me about **Javascript, ReactJS, React Native, Styling**
+- 💬 Ask me about **Javascript, ReactJS, Styling**
 
 - 📫 How to reach me **devashishp1999@gmail.com**
 
