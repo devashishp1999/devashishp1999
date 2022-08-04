@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devashish Pujari</h1>
+<h1 align="centre">Hi 👋, I'm Devashish Pujari</h1>
 <h3 align="center">I love to code in Javascript 😄</h3>
 
 - 🔭 I’m currently working as **A Frontend Web Developer**
