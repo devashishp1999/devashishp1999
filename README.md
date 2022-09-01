@@ -1,15 +1,15 @@
 <h1 align="centre">Hi 👋, I'm Devashish Pujari</h1>
 <h3 align="center">I love to code in Javascript 😄</h3>
 
-- 🔭 I’m currently working as **A Frontend Web Developer**
+- 🔭 I’m currently working as : **A Frontend Web Developer**
 
-- 🌱 I’m currently learning **I keep learning diffrent UI Frameworks but apart from that I am learning NoSQL databases, NodeJS.**
+- 🌱 **I keep learning diffrent techs & UI Frameworks but apart from that I am learning ReactJS & NodeJS.**
 
-- 👯 I’m looking to collaborate on **Webapps that require smooth and beautiful frontends, Frontend for Decentralized Application, React-Native Apps**
+- 👯 I’m available to collaborate on **Webapps that require smooth and beautiful frontends, Frontend for Decentralized Application, React-Native Apps**
 
-- 👨‍💻 All of my projects are available at [github.com/devashishp1999](https://www.github.com/devashishp1999)
+- 👨‍💻 All of my projects are available at [www.devashishpujari.in](http://devashishpujari.in/) or [github.com/devashishp1999](https://www.github.com/devashishp1999)
 
-- 💬 Ask me about **Javascript, ReactJS, Styling**
+- 💬 Ask me about **Javascript, ReactJS, Stylings, KonvaJS, Accessiblity & Interactivity on DOM.**
 
 - 📫 How to reach me **devashishp1999@gmail.com**
 
