@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working as : **A Frontend Web Developer**
+- 🔭 I’m currently working as : **A Frontend Developer**
 
-- 🌱 **I keep learning diffrent techs & UI Frameworks but apart from that I am learning ReactJS & NodeJS.**
+- 🌱 **I keep learning diffrent techs & UI Frameworks but apart from that I am learning NodeJS and Python.**
 
 - 👯 I’m available to collaborate on **Webapps that require smooth and beautiful frontends, Frontend for Decentralized Application, React-Native Apps**
 
