@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in//in/devashish-pujari-404844114/"
+    href="https://www.linkedin.com/in/devashishpujari/"
     target="blank"
     ><img
       align="center"
@@ -32,6 +32,7 @@
       height="30"
       width="40"
   /></a>
+  &nbsp;
   <a href="https://docs.google.com/document/d/1Zt4u5w6qPdhcswF0Jy8myT--HrEdm6BqmIMszZ8V6Qo/edit?usp=sharing" >
       <img  align="center" src="https://img.icons8.com/dusk/40/null/resume.png"/> Resume
   </a>
