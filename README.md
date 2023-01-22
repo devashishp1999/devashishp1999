@@ -32,7 +32,11 @@
       height="30"
       width="40"
   /></a>
+  <a href="https://docs.google.com/document/d/1Zt4u5w6qPdhcswF0Jy8myT--HrEdm6BqmIMszZ8V6Qo/edit?usp=sharing" >
+      <img  align="center" src="https://img.icons8.com/dusk/40/null/resume.png"/> Resume
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
