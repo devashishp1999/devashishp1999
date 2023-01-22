@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **devashishp1999@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.me/devashishpujari](https://flowcv.me/devashishpujari)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/devashishpujari/)
 
 - ⚡ Connect with me **If you like to hire me or If you want any help from me.**
 
