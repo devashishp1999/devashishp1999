@@ -26,26 +26,10 @@
 
 Don't hesitate to reach out to me, I'm always open to discussing new opportunities and projects!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a
-    href="https://www.linkedin.com/in/devashishpujari/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="/in/devashish-pujari-404844114/"
-      height="30"
-      width="40"
-  /></a>
-  &nbsp;
-  <a href="https://docs.google.com/document/d/1Zt4u5w6qPdhcswF0Jy8myT--HrEdm6BqmIMszZ8V6Qo/edit?usp=sharing" >
-      <img  align="center" src="https://img.icons8.com/dusk/40/null/resume.png"/> Resume
-  </a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<!--
+
+<p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -176,18 +160,5 @@ Don't hesitate to reach out to me, I'm always open to discussing new opportuniti
   </a>
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=devashishp1999&show_icons=true&locale=en&layout=compact"
-    alt="devashishp1999"
-  />
-</p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devashishp1999&"
-    alt="devashishp1999"
-  />
-</p>
+-->
