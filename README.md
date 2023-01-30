@@ -1,4 +1,6 @@
-<h1 align="centre">Hello - Hi - Namaste</h1>
+<div align="center" >
+  <h1>Hello - Hi - Namaste</h1>
+</div>
 <h3 align="center">I love to code in Javascript 😄</h3>
 
 
