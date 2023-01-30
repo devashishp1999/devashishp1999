@@ -22,7 +22,7 @@
 - [Project Name 2](Link to project) - A brief description of the project
 
 
-##### If you'd like to learn more about my experience, you can find it in [my resume](https://docs.google.com/document/d/1Zt4u5w6qPdhcswF0Jy8myT--HrEdm6BqmIMszZ8V6Qo/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/devashishpujari/).
+#### If you'd like to learn more about my experience, you can find it in [my resume](https://docs.google.com/document/d/1Zt4u5w6qPdhcswF0Jy8myT--HrEdm6BqmIMszZ8V6Qo/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/devashishpujari/).
 
 Don't hesitate to reach out to me, I'm always open to discussing new opportunities and projects!
 
