@@ -18,13 +18,13 @@
 
 ## Projects
 
-- [Project Name 1](Link to project) - A brief description of the project
-- [Project Name 2](Link to project) - A brief description of the project
+- [Drag-Drop-Plus](https://github.com/devashishp1999/drag-drop-plus) - Library to drag any DOM element and drop it somewhere on DOM.
+- [Screen-Color-Picker](https://github.com/devashishp1999/Screen-Color-Picker) - Web App to pick color from anywhere on the screen. Also available as PWA.
 
 
 #### If you'd like to learn more about my experience, you can find it in [my resume](https://docs.google.com/document/d/1Zt4u5w6qPdhcswF0Jy8myT--HrEdm6BqmIMszZ8V6Qo/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/devashishpujari/).
 
-Don't hesitate to reach out to me, I'm always open to discussing new opportunities and projects!
+##### Feel free to reach out to me, I'm always open to discussing new opportunities and projects!
 
 
 <!--
