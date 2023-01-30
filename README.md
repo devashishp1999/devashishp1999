@@ -1,26 +1,30 @@
-<div align="center" >
-  <h1>Hello - Hi - Namaste</h1>
-</div>
-<h3 align="center">I love to code in Javascript 😄</h3>
+<div align="center">
+  
+# Hello & Namaste
+  
+</div>  
 
 
+My name is [**Devashish**](https://www.linkedin.com/in/devashishpujari/), I'm a passionate front-end developer with experience in building user-friendly, visually appealing, and responsive web applications.
 
-- 🔭 I’m currently working as : **A Frontend Developer**
+## Skills
 
-- 🌱 **I keep learning diffrent techs & UI Frameworks but apart from that I am learning NodeJS and Python.**
+- Proficient in HTML, CSS, JavaScript and ReactJSJ. Familiar with Vue.js, Svelte and Next.js
+- Good understanding of front-end development principles and responsive design
+- Strong debugging and problem-solving skills
+- Knowledge of code versioning tools such as Git.
+- Familiarity with RESTful API integrations
+- Also worked with UI/UX design and prototyping tools such as Figma, and Adobe XD
 
-- 👯 I’m available to collaborate on **Webapps that require smooth and beautiful frontends, Frontend for Decentralized Application, React-Native Apps**
+## Projects
 
-- 👨‍💻 All of my projects are available at [www.devashishpujari.in](http://devashishpujari.in/) or [github.com/devashishp1999](https://www.github.com/devashishp1999)
+- [Project Name 1](Link to project) - A brief description of the project
+- [Project Name 2](Link to project) - A brief description of the project
 
-- 💬 Ask me about **Javascript, ReactJS, Stylings, KonvaJS, Accessiblity & Interactivity on DOM.**
 
-- 📫 How to reach me **devashishp1999@gmail.com**
+##### If you'd like to learn more about my experience, you can find it in [my resume](https://docs.google.com/document/d/1Zt4u5w6qPdhcswF0Jy8myT--HrEdm6BqmIMszZ8V6Qo/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/devashishpujari/).
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/devashishpujari/)
-
-- ⚡ Connect with me **If you like to hire me or If you want any help from me.**
-
+Don't hesitate to reach out to me, I'm always open to discussing new opportunities and projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +43,6 @@
       <img  align="center" src="https://img.icons8.com/dusk/40/null/resume.png"/> Resume
   </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -131,7 +134,6 @@
       height="40"
     />
   </a>
-
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
