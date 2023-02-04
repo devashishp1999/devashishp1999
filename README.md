@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello & Namaste
+<h1>Hello & Namaste</h1>
   
 </div>  
 
