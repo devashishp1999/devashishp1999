@@ -22,7 +22,7 @@
 - [Screen-Color-Picker](https://github.com/devashishp1999/Screen-Color-Picker) - Web App to pick color from anywhere on the screen. Also available as PWA.
 
 
-#### If you'd like to learn more about my experience, you can find it in [my resume](https://docs.google.com/document/d/1Zt4u5w6qPdhcswF0Jy8myT--HrEdm6BqmIMszZ8V6Qo/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/devashishpujari/).
+#### If you'd like to learn more about my experience, you can find it in [my resume](https://docs.google.com/document/d/1msqr1AspIZ41vruT1MzG_hCM0t5L54MWQHMh7SpEPjA/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/devashishpujari/).
 
 ##### Feel free to reach out to me, I'm always open to discussing new opportunities and projects!
 
