@@ -5,16 +5,19 @@
 </div>  
 
 
-### My name is [**Devashish**](https://www.linkedin.com/in/devashishpujari/), I'm a passionate front-end developer with experience in building user-friendly, visually appealing, and responsive web applications.
+### My name is [**Devashish**](https://www.linkedin.com/in/devashishpujari/), I'm a passionate front-end developer with experience in building user-friendly, visually appealing, and intutive web applications.
 
 ## Skills
 
-- Proficient in HTML, CSS, JavaScript and ReactJSJ. Familiar with Vue.js, Svelte and Next.js
+- Proficient in `HTML`, `CSS`, `JavaScript` and `ReactJS`.
 - Good understanding of front-end development principles and responsive design
-- Strong debugging and problem-solving skills
-- Knowledge of code versioning tools such as Git.
-- Familiarity with RESTful API integrations
-- Also worked with UI/UX design and prototyping tools such as Figma, and Adobe XD
+- Strong `debugging & problem-solving` skills
+- Knowledge of code versioning tools such as `Git`.
+- `REST APIs` & `GraphQL` integrations
+- Also worked with `UI/UX` design and prototyping tools such as `Figma`, and `Adobe XD`
+
+### - In addition to my core skills, I have also worked & familiar with other technologies like:
+- `TypeScript` . `NextJS` . `GraphQL` . `React Native` . `VueJS` . `Bootstrap` . `LWC Salesforce development` . `Extendscript` . `Adobe CEP`
 
 ## Projects
 
@@ -24,7 +27,7 @@
 
 #### If you'd like to learn more about my experience, you can find it in [my resume](https://docs.google.com/document/d/1msqr1AspIZ41vruT1MzG_hCM0t5L54MWQHMh7SpEPjA/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/devashishpujari/).
 
-##### Feel free to reach out to me, I'm always open to discussing new opportunities and projects!
+#### Feel free to [reach out to me](https://www.linkedin.com/in/devashishpujari/), I'm always open to discussing new opportunities and projects!
 
 
 <!--
