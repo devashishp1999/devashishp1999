@@ -13,7 +13,7 @@
 - Good understanding of front-end development principles and responsive design
 - Strong `debugging & problem-solving` skills
 - Knowledge of code versioning tools such as `Git`.
-- `REST APIs` & `GraphQL` integrations
+- `NodeJS`, `REST APIs` & `GraphQL` integrations
 - Also worked with `UI/UX` design and prototyping tools such as `Figma`, and `Adobe XD`
 
 ### - In addition to my core skills, I have also worked & familiar with other technologies like:
